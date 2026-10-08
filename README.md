@@ -93,4 +93,4 @@ Each run writes to its own time-stamped folder under `logs/`.
 
 ## Team
 
-[team name] — [member 1], [member 2]
+*Ivan Olivier Muhoza* — *Dorcas Tabitha Akimana*
